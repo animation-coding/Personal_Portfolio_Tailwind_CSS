@@ -1,0 +1,57 @@
+ FREE CSS
+
+ <!--icon-->
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <!--slider-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.2.4/swiper-bundle.css">
+    <!--tailwind.css-->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!--parallax-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
+    <!--main CSS-->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+
+js>>
+  <!---scrollreveal--->
+    <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
+    <!---slider js--->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.2.4/swiper-bundle.min.js"></script>
+    <!---main js--->
+    <script src="assets/js/js.js"></script>
+
+
+
+
+text--1
+Professional Website Designer With 4 Years of
+Work Experience
+
+  text--2
+  I'm Creative Director and Web Designer from Sydney, Australia, working in web development and print media. I enjoy turning
+ complex problems into simple, beautiful and intuitive designs.
+
+ My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+
+
+
+ text--3
+ Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.
+
+
+ text--4
+ Tip for Conduction Remote UX Research and Testing
+
+ text --5
+ Photo booth fam kinfolk coldpressed sriracha leggings jianbing microdosing tousled
+ microdosing tousled waistcoat.
+
+ text--6
+ Thank you so much for coming to
+Animation Coding
+Stay fit. All day, every day.
+
+img
+https://source.unsplash.com/random/300x300/?1
+                                
